@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 沙彌尼離戒文
+#+DATE: 2015-08-30 20:43:36.097244
+#+PROPERTY: JUAN 0
